@@ -9,4 +9,5 @@ Here we can see that Web3 is connected to the Unity Game engine.
 ![ssScreen2](https://user-images.githubusercontent.com/89289513/168752868-54faa70f-7c2a-47f4-aef9-c3a5bf2fb7c8.png)
 <br></br>
 And finally we can see that the balances are being loaded with Web3: <br></br>
-![ssScreen](https://user-images.githubusercontent.com/89289513/168752983-a7670aed-4627-4202-a3a1-8abc2dfd9a6d.png)
+![a](https://user-images.githubusercontent.com/89289513/168753653-348f1a9a-d155-4fde-87fe-7cb6595e7134.png)
+
