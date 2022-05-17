@@ -1,8 +1,4 @@
-Unity game (Son of Odin) with Web3 blockchain:
-<br></br>
--Coins<br></br>
--Items<br></br>
--Potions<br></br>
+Unity game (Son of Odin) with Web3 blockchain.  Features coins, items, and potions.  Can use NFTs, special abilities, or anything imaginable.
 
 # CoinHandler.cs in Unity:<br></br>
 ![ssScreen3](https://user-images.githubusercontent.com/89289513/168752763-44d4494e-cf0b-441b-b056-0754bd58c8f1.png)
